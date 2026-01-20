@@ -1,6 +1,6 @@
 # Survivor’s Guide: NCII & CSAM Reporting and Legal Recourse---Kerala-Specific
 # Repository Contents
-
+- Revised Version- 17-page-guide.pdf - Original work, licensed under CC BY 4.0. * Download This *
 - 14-page-guide.pdf - Original work, licensed under CC BY 4.0.
 - SOP NCII MEITY V1.pdf - Owned by the Government of India For reference only.
 - See original source:
